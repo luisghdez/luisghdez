@@ -1,12 +1,4 @@
-<h1>Hi, im Luis 👋</h1>
 
-
-
-- 🔭 I’m currently working on [Gasho](https://github.com/blarsamio/gasho)
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on new projects!
-- 💬 Ask me about Ruby on Rails
-- 📫 How to reach me: lghernandez.dev@gmail.com
 
 <h2> Technical Skills  </h2>
 <a href= https://github.com/https://github.com/luisghdez?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
